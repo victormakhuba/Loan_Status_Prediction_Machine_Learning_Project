@@ -10,16 +10,26 @@ In this project, the objective is to develop a machine learning model using Pyth
 The dataset used for this project contains multiple features related to loan applicants, such as:
 
 ApplicantIncome
+
 CoapplicantIncome
 LoanAmount
+
 Loan_Amount_Term
+
 Credit_History
+
 Gender
+
 Married
+
 Dependents
+
 Education
+
 Self_Employed
+
 Property_Area
+
 Loan_Status (target variable)
 
 **2.2 Data Preprocessing**
